@@ -1,1 +1,1 @@
-proposal.md
+proposal
